@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
-public class Exercice1_TP7 {
+public class Exercice1_TP7_Session1 {
     //Exercice 1 : Analyse de Données texte
     public static void main(String[] args) {
      // 1. Configuration des propriétés de l'application kafka streams

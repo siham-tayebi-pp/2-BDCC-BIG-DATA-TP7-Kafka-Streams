@@ -7,7 +7,7 @@ import org.apache.kafka.streams.kstream.KStream;
 
 import java.util.Properties;
 
-public class Main {
+public class MainSession1 {
     public static void main(String[] args) throws StreamsException {
         System.out.println("Hello, World!");
         //Config lapp kafaka stream

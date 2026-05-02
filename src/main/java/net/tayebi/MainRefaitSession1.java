@@ -6,7 +6,7 @@ import org.apache.kafka.streams.kstream.KStream;
 
 import java.util.Properties;
 
-public class MainRefait {
+public class MainRefaitSession1 {
     public static void main(String[] args) {
         //Declaration de lobj properties
         Properties props = new Properties();
